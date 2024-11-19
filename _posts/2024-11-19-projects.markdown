@@ -1,0 +1,87 @@
+---
+layout: post
+title:  "PROJECTS & EXPERIENCE
+date:   2024-11-19 13:08:52 +0200
+categories: jekyll update
+---
+
+**AI Side Projects**  
+Interview transscription service with speaker diarization and correct timespamps. Usergroup are studnets and journalists (everyone doing a kind of qualitative analisis). MVP built with OAI Whisper & Vercel.
+
+
+
+---
+
+I am currentkly full time employed as a IT Consultant at MHP - A Porsche Company, therefor the first three projects are expected to be understood in this context.
+
+## Autonomous Driving Program
+
+**IT Consultant** | MHP - A Porsche Company, Wolfsburg  
+Transformed an R&D program to adopt a more iterative, agile product development framework, significantly improving velocity in the automotive sector.
+
+---
+
+## Monetization Software Development
+
+**IT Consultant (Scrum Master & RTE)** | MHP - A Porsche Company, Wolfsburg  
+Enabled and supported development teams in building automotive monetization software, streamlining development processes, and improving collaboration.
+
+---
+
+## SAFe Training & Certifications
+
+**SAFe Practice Consultant (SPC)** | MHP - A Porsche Company, Wolfsburg  
+Successfully certified 250+ individuals in SAFe methodology, with an average rating of 4.9/5 across 100+ feedbacks, driving agile transformations within teams.
+
+---
+
+## Digital Marketing Consultancy
+
+**Digital Marketing Consultant** | Dr. Schulte-Ostermann Tax Firm, Eckernförde  
+Created the first digital presence for a tax consultancy, optimizing Google My Business and social media strategies to enhance visibility and client acquisition.
+
+---
+
+## Student Brand Manager for Red Bull
+
+**Marketing & Sales** | Red Bull Consumer Service GmbH, Braunschweig  
+Combined marketing, sales, and extensive networking to engage with the student community and promote Red Bull’s brand through regional events.
+
+---
+
+## Teacher Assistant - Institute for Business Management
+
+**Assistant** | TU Braunschweig, Braunschweig  
+Supported seminars and lectures, assisting doctoral candidates in the “Introduction to Business Management” course, helping students grasp key business concepts.
+
+---
+
+## Event Management
+
+**Event Organizer** | bonding Student Initiative e.V., Braunschweig  
+Led the planning and execution of job fairs and student-focused events, connecting students with industry professionals.
+
+---
+
+## Communication & Soft Skill Trainings
+
+**Trainer** | bonding Student Initiative e.V., Braunschweig  
+Conducted training sessions on time management and communication, helping students develop crucial soft skills for their professional careers.
+
+---
+
+## Surf Instructor
+
+**Instructor** | Nordwind Wassersport e.V., Surendorf  
+Taught windsurfing courses to beginners and advanced learners, ensuring a safe and enjoyable learning experience during the summer months.
+
+---
+
+## School President
+
+**President** | High School  
+Recognized early the importance of active engagement, leading and representing the student body to create a positive school environment and implement initiatives.
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

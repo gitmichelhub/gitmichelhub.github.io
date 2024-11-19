@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Tech"
+date:   2024-11-19 13:08:52 +0200
+categories: jekyll update
+---
+Let’s face it—technology is moving faster than ever, and it’s changing just about everything. From self-driving cars to AI that can write your essays, the possibilities are endless. We’ve seen two massive leaps in recent history: the rise of the internet and, more recently, AI. Both changed the game completely, and we’re only just scratching the surface of what’s possible.
+
+But while the world is buzzing with innovation—think reusable rockets, 3D printing entire rockets (yes, really!), and even personalized medicine—Europe seems to be hitting the brakes with regulation. Sure, we need rules to keep things safe and fair, but the layers of red tape often leave companies stuck, watching the rest of the world zoom by.
+
+The growth potential is insane, from renewable energy tech making the planet greener to space exploration bringing us closer to the stars. But for Europe to stay competitive, it might be time to cut some slack on the rulebook and let innovation breathe. E.g. The EU Competitiveness Report by Mario Draghi is a great step in the right direction. Here is a link to a discussion from [levelio].
+
+The future’s bright, no doubt about it. The question is: who’s going to lead the way?
+
+That is also part of the reason why I am currently at SLUSH 2024, where european Start-Ups, Innovators and Investors aggregate. 
+
+Further resources:
+
+
+[levelsio]: https://x.com/levelsio/status/1833126426142179653?s=48
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
