@@ -5,7 +5,7 @@ date:   2024-11-19 15:08:52 +0200
 categories: jekyll update
 ---
 
-##AI Side Projects
+## AI Side Projects
 A transcription service tailored for students and journalists conducting qualitative analysis, featuring speaker diarization and accurate timestamps. The MVP is powered by OpenAI’s Whisper and hosted on Vercel, providing a seamless and efficient solution for converting interviews into structured text. 
 
 
@@ -13,6 +13,7 @@ A transcription service tailored for students and journalists conducting qualita
 ---
 
 **I am currentkly full time employed as a IT Consultant at MHP - A Porsche Company.**
+
 
 ## Autonomous Driving Program
 
@@ -49,30 +50,30 @@ Combined marketing, sales, and extensive networking to engage with the student c
 
 ---
 
-## Teacher Assistant - Institute for Business Management
+## Teacher Assistant - Institute of Management
 
-**Assistant** | TU Braunschweig, Braunschweig  
+**Assistant** | TU Braunschweig. 
 Supported seminars and lectures, assisting doctoral candidates in the “Introduction to Business Management” course, helping students grasp key business concepts.
 
 ---
 
 ## Event Management
 
-**Event Organizer** | bonding Student Initiative e.V., Braunschweig  
+**Event Organizer** | bonding Student Initiative e.V. 
 Led the planning and execution of job fairs and student-focused events, connecting students with industry professionals.
 
 ---
 
 ## Communication & Soft Skill Trainings
 
-**Trainer** | bonding Student Initiative e.V., Braunschweig  
+**Trainer** | bonding Student Initiative e.V. 
 Conducted training sessions on time management and communication, helping students develop crucial soft skills for their professional careers.
 
 ---
 
 ## Surf Instructor
 
-**Instructor** | Nordwind Wassersport e.V., Surendorf  
+**Instructor** | Nordwind Wassersport e.V.
 Taught windsurfing courses to beginners and advanced learners, ensuring a safe and enjoyable learning experience during the summer months.
 
 ---
