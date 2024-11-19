@@ -5,8 +5,7 @@ date:   2024-11-19 15:08:52 +0200
 categories: jekyll update
 ---
 
-## AI Side Projects
-A transcription service tailored for students and journalists conducting qualitative analysis, featuring speaker diarization and accurate timestamps. The MVP is powered by OpenAI’s Whisper and hosted on Vercel, providing a seamless and efficient solution for converting interviews into structured text. 
+AI Side Project: A transcription service tailored for students and journalists conducting qualitative analysis, featuring speaker diarization and accurate timestamps. The MVP is powered by OpenAI’s Whisper and hosted on Vercel, providing a seamless and efficient solution for converting interviews into structured text. 
 
 
 
