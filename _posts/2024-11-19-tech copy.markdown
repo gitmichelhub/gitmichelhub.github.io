@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tech"
-date:   2024-11-19 13:08:52 +0200
+date:   2024-11-19 16:08:52 +0200
 categories: jekyll update
 ---
 Let’s face it—technology is moving faster than ever, and it’s changing just about everything. From self-driving cars to AI that can write your essays, the possibilities are endless. We’ve seen two massive leaps in recent history: the rise of the internet and, more recently, AI. Both changed the game completely, and we’re only just scratching the surface of what’s possible.
