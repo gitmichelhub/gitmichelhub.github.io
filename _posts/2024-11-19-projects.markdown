@@ -85,3 +85,8 @@ Recognized early the importance of active engagement, leading and representing t
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+## University
+
+**Technical University Braunschweig** | B.Sc. in in Industrial Engineering (Electrical Engineering).
+I went to Uni in Braunschweig, which is next to the VW Headquarter. It was heavily influenced by the automotive industry. During my studies I had a few sideprojects (bonding e.V., work at the Institute of Management, Red Bull Brand Management) that you read above. My Thesis was about "Relationship Between Leaders and Employees in the Context of Flexible Work".
