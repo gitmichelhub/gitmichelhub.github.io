@@ -5,33 +5,33 @@ date:   2024-11-19 15:08:52 +0200
 categories: jekyll update
 ---
 
-**AI Side Projects**  
-Interview transscription service with speaker diarization and correct timespamps. Usergroup are studnets and journalists (everyone doing a kind of qualitative analisis). MVP built with OAI Whisper & Vercel.
+##AI Side Projects
+A transcription service tailored for students and journalists conducting qualitative analysis, featuring speaker diarization and accurate timestamps. The MVP is powered by OpenAI’s Whisper and hosted on Vercel, providing a seamless and efficient solution for converting interviews into structured text. 
 
 
 
 ---
 
-I am currentkly full time employed as a IT Consultant at MHP - A Porsche Company.
+**I am currentkly full time employed as a IT Consultant at MHP - A Porsche Company.**
 
 ## Autonomous Driving Program
 
-**IT Consultant** | MHP - A Porsche Company, Stuttgart
-Transformed an R&D program to adopt a more iterative, agile product development framework, significantly improving velocity in the automotive sector.
+**IT Consultant** | MHP - A Porsche Company.
+Transformed an R&D program to adopt a more iterative, agile product development framework, significantly improving velocity and communication with suppliers.
 
 ---
 
 ## Monetization Software Development
 
-**IT Consultant (Scrum Master & RTE)** | MHP - A Porsche Company, Wolfsburg  
+**IT Consultant (Scrum Master & RTE)** | MHP - A Porsche Company. 
 Enabled and supported development teams in building automotive monetization software, streamlining development processes, and improving collaboration.
 
 ---
 
 ## SAFe Training & Certifications
 
-**SAFe Practice Consultant (SPC)** | MHP - A Porsche Company, Wolfsburg  
-Successfully certified 250+ individuals in SAFe methodology, with an average rating of 4.9/5 across 100+ feedbacks, driving agile transformations within teams.
+**SAFe Practice Consultant (SPC)** | MHP - A Porsche Company. 
+Successfully certified 250+ individuals in SAFe methodology, with an average rating of 4.9/5 across 100+ feedbacks. Trainings are usually 2 full days with groups up to 20 people. 
 
 ---
 
