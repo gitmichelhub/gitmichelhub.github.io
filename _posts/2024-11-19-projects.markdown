@@ -11,7 +11,7 @@ AI Side Project: A transcription service tailored for students and journalists c
 
 ---
 
-**I am currently full time employed as a IT Consultant at MHP - A Porsche Company.**
+**I am currently full time employed as an IT Consultant at MHP - A Porsche Company.**
 
 
 ## Autonomous Driving Program
@@ -24,7 +24,7 @@ Transformed an R&D program to adopt a more iterative, agile product development 
 ## Monetization Software Development
 
 **IT Consultant (Scrum Master & RTE)** | MHP - A Porsche Company. 
-Enabled and supported development teams in building automotive monetization software, streamlining development processes, and improving collaboration.
+Enabled and supported development teams in building automotive monetization software, streamlining development processes and improving collaboration.
 
 ---
 
@@ -52,7 +52,7 @@ Combined marketing, sales, and extensive networking to engage with the student c
 ## Teacher Assistant - Institute of Management
 
 **Assistant** | TU Braunschweig. 
-Supported seminars and lectures, assisting doctoral candidates in the “Introduction to Business Management” course, helping students grasp key business concepts.
+facilitated seminars and lectures, assisting doctoral candidates in the “Introduction to Business Management” course, helping students grasp key business concepts.
 
 ---
 
@@ -89,4 +89,4 @@ Recognized early the importance of active engagement, leading and representing t
 ## University
 
 **Technical University Braunschweig** | B.Sc. in Industrial Engineering (Electrical Engineering).
-I went to Uni in Braunschweig, which is close the VW Headquarter. During my studies I had a few side projects (bonding e.V., work at the Institute of Management, Red Bull Brand Management) that you read above. My Thesis was about "Relationship between Leaders and Employees in the Context of Flexible Work".
+I went to TU BS, which is close the VW Headquarter. During my studies I had a few side projects (bonding e.V., work at the Institute of Management, Red Bull Brand Management and Jobs like driving for Europcar) that you read above. My Thesis was about "Relationship between Leaders and Employees in the context of romote and flexible work".
