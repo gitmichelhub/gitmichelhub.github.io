@@ -4,8 +4,12 @@ title:  "AI"
 date:   2024-11-19 13:08:52 +0200
 categories: jekyll update
 ---
-This Post will be all about my opinion on the AI rhetoric war between "doomer vs. e/acc" and general great online resources! 
+This Post will be all about my opinion on the AI rhetoric war between "doomer vs. e/acc" and Closed vs. Open Source AI development and general great online resources! 
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+
+My Stance on the AI rhetoric war between "doomer vs. e/acc" and Closed vs. Open Source AI development is that I think the hype around AI is justified and I am excited to see how it will shape the future. There is so much happening with Test-Time Compute, Agents and Robotics (Autonomous Driving) and I am sure that AI will be a game changer - even though I realise that some regulation might be necessary for autonomous systems. The EU made a good (if not smooth) start with the AI Act and I am sure that other countries will follow. 
+
+Open vs. Closed source is a different topic. I believe that only huge companies can afford to build their own AI models from scratch due to the high CapEx. For smaller companies and startups it is much more efficient to use existing models and frameworks. That implies that the future of AI will be a mix of Open Source and Closed Source models and a dependency on not only the open source community but also the big players in the AI industry like Meta. 
+
+A general overview of resources I found helpful: [AI Canon by a16z](https://a16z.com/ai-canon/)
+

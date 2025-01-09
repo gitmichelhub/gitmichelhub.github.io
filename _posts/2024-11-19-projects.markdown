@@ -5,7 +5,7 @@ date:   2024-11-19 17:08:52 +0200
 categories: jekyll update
 ---
 
-AI Side Project: A transcription service tailored for students and journalists conducting qualitative analysis, featuring speaker diarization and accurate timestamps. The MVP is powered by OpenAI’s Whisper and hosted on Vercel, providing a seamless and efficient solution for converting interviews into structured text. 
+AI Side Project: A transcription service tailored for students and journalists conducting qualitative analysis, featuring speaker diarization and accurate timestamps. The MVP is powered by Azure AI Services and hosted on Vercel, providing a seamless and efficient solution for converting interviews into structured text: [interviewtotext.com](https://interviewtotext.com)
 
 
 
@@ -31,7 +31,7 @@ Enabled and supported development teams in building automotive monetization soft
 ## SAFe Training & Certifications
 
 **SAFe Practice Consultant (SPC)** | MHP - A Porsche Company. 
-Successfully certified 250+ individuals in SAFe methodology, with an average rating of 4.9/5 across 100+ feedbacks. Trainings are usually 2 full days with groups up to 20 people. 
+Successfully certified 250+ individuals in SAFe methodology, with an average rating of 4.8/5 across 100+ feedbacks. Trainings are usually 2 full days with groups up to 20 people. 
 
 ---
 
@@ -89,4 +89,4 @@ Recognized early the importance of active engagement, leading and representing t
 ## University
 
 **Technical University Braunschweig** | B.Sc. in Industrial Engineering (Electrical Engineering).
-I went to TU BS, which is close the VW Headquarter. During my studies I had a few side projects (bonding e.V., work at the Institute of Management, Red Bull Brand Management and Jobs like driving for Europcar) that you read above. My Thesis was about "Relationship between Leaders and Employees in the context of romote and flexible work".
+I went to TU BS, which is close the VW Headquarter. During my studies I had a few side projects (bonding e.V., work at the Institute of Management, Red Bull Brand Management and Jobs like driving for Europcar) that you read above. My Thesis was about "Relationship between Leaders and Employees in the context of remote and flexible work".
