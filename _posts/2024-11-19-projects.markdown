@@ -77,9 +77,9 @@ Taught windsurfing courses to beginners and advanced learners, ensuring a safe a
 
 ---
 
-## School President
+## Student Council President
 
-**President** | High School  
+**Student Council President** | High School  
 Recognized early the importance of active engagement, leading and representing the student body to create a positive school environment and implement initiatives.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
