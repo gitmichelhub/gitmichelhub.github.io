@@ -21,7 +21,7 @@
 title: Michel
 email: michel.tech.user@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
- Welcome to my portfolio! I am Michel, an IT consultant and Team Coach, passionate about AI, autonomous driving, and transformative technologies. This site is temporary—soon, I will have an AI-powered assistant here to answer your questions in real time. In the meantime, explore my experience, insights, and curated resources.
+ Welcome to my portfolio! I am Michel, an IT Consultant and Team Coach, passionate about AI, autonomous driving, and transformative technologies. This site is temporary—soon, I will have an AI-powered assistant here to answer your questions in real time. In the meantime, explore my experience, insights, and curated resources.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: michel-werner-9a9878160
